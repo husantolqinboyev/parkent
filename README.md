@@ -25,12 +25,7 @@ git push origin main
 #### 1.3. Environment Variables
 Render.com da Environment Variables qo'shish:
 ```
-NODE_ENV=production
-PORT=10000
-TELEGRAM_BOT_TOKEN=8389652893:AAGPVN7GwrokASMZcInn-BlvaddCBj_AsLg
-SUPABASE_URL=https://yvxcxbnifylikrcqxuwc.supabase.co
-SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl2eGN4Ym5pZnlsaWtyY3F4dXdjIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc2OTYwMTE1OCwiZXhwIjoyMDg1MTc3MTU4fQ.km8-oOPknRkTV2jM2ZDAtGN9-eSuP_AtFCpMF3qjmRA
-```
+
 
 #### 1.4. Backend URL
 Deployment tugagandan so'ng backend URL ni oling:
