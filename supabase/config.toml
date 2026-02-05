@@ -1,0 +1,13 @@
+project_id = "shdvsjktpcmnmmafofff"
+
+[functions.telegram-webhook]
+verify_jwt = false
+
+[functions.telegram-auth]
+verify_jwt = false
+
+[functions.admin]
+verify_jwt = false
+
+[functions.cleanup-expired]
+verify_jwt = false
