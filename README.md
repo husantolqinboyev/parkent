@@ -44,10 +44,7 @@ Deployment tugagandan so'ng backend URL ni oling:
 #### 2.2. Environment Variables
 Vercel da Environment Variables qo'shish:
 ```
-VITE_SUPABASE_URL=https://yvxcxbnifylikrcqxuwc.supabase.co
-VITE_SUPABASE_PUBLISHABLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl2eGN4Ym5pZnlsaWtyY3F4dXdjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Njk2MDExNTgsImV4cCI6MjA4NTE3NzE1OH0.KbNlUsIx70nFkdS3LGYU0pn8YXp5tNwBAiXn3HrKfyU
-VITE_API_BASE_URL=https://parkent-market-backend.onrender.com
-```
+
 
 #### 2.3. Deploy
 **Deploy** tugmasini bosing
