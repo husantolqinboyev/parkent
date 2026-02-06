@@ -33,7 +33,7 @@ const Auth = () => {
   }, [user, profile, navigate]);
 
   const handleTelegramRedirect = () => {
-    window.open("https://t.me/marketfinora_bot?start=auth", "_blank");
+    window.open("https://t.me/pakentmarket_bot?start=auth", "_blank");
     setStep("code");
   };
 
